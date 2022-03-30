@@ -1,2 +1,2 @@
-# quick-db-manipulation-with-python
+# Quick database manipulation with python
 Código desenvolvido em Python para manipulação de banco de dados
